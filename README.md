@@ -3,6 +3,10 @@ This product is only available in Russian.
 
 English Readme
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Install:
+The finished file "TipsBook_v3.exe " place in an empty folder allocated for the program.
+It will automatically create some files.
+
 When opening the application, you can press:
 "Ctrl + Shift + U"
 or
@@ -23,6 +27,9 @@ The item "Save categories" - now performs an absolutely useless function.
 
 Russian Readme
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Готовый файл "TipsBook_v3.exe" разместить в пустой папке выделенной под программу.
+Она автоматически создаст некоторые файлы.
+
 При открытии приложения можно нажать:
 "Ctrl + Shift + U"
 или
