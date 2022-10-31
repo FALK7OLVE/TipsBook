@@ -20,10 +20,8 @@ I created a note, clicked on it, and entered the text in the text field on the s
 Save, RMB by note - save.
 RMB by subcategory - save.
 RMB by category - save.
+File -> Save categories
 Exactly in that order .
-
-The item "Save categories" - now performs an absolutely useless function.
-
 
 Russian Readme
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -43,6 +41,5 @@ Russian Readme
 Сохранять, ПКМ по заметке - сохранить.
 ПКМ по подкатегории - сохранить.
 ПКМ по категории - сохранить.
+Файл -> Сохранить категории
 Именно в таком порядке.
-
-Пункт "Сохранить категории" - сейчас выполняет абсолютно бесполезную функцию.
